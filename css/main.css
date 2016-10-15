@@ -1,0 +1,61 @@
+/*Mixin Examples*/
+/*@include center()*/
+.nav {
+  background-color: #f3f3f3;
+  padding-bottom: 14px; }
+
+body {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.4em; }
+
+.textOnTop {
+  position: absolute;
+  padding-top: 200px; }
+
+.title {
+  font-family: 'Vidaloka', serif;
+  font-size: 63px;
+  letter-spacing: 1.4px;
+  color: white;
+  text-align: left;
+  padding-bottom: 12px; }
+
+.want {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: white;
+  padding-top: 34px;
+  letter-spacing: 1px; }
+
+.search {
+  margin-top: 22px; }
+
+.searchField {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: white;
+  padding-left: 34px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: transparent;
+  border: .5px solid white; }
+
+.button {
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 1px;
+  font-size: 14px;
+  color: white;
+  display: inline-block;
+  padding-left: 22px; }
+
+.storm {
+  max-width: 100%;
+  z-index: -300; }
+
+.footer {
+  font-family: helvetica, serif;
+  font-size: 14px;
+  color: white;
+  text-align: center;
+  margin-top: -18px; }
